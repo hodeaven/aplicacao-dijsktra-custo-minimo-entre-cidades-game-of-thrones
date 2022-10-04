@@ -1,7 +1,7 @@
 
 <div align="center"> 
 
-<h1> Aplicação do algorítmo de Dijsktra para calcular o custo mínimo entre as cidades do Mundo fictício de Game Of Thrones ⚔️</h1>
+<h1> Aplicação do algoritmo de Dijsktra para calcular o custo mínimo entre as cidades do Mundo fictício de Game Of Thrones ⚔️</h1>
  <img src="https://thumbs.gfycat.com/ArtisticMessyDutchsmoushond-size_restricted.gif" /> 
 
 </div>
