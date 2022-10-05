@@ -7,8 +7,8 @@
 </div>
 <h1>💪🏻 Equipe: </h1> 
 <h3>
-   <a href = "https://github.com/Luizfdarb">  Luiz Felipe</a> e
-   <a href = "https://github.com/hodeaven">Eduarda Deodato</a>  
+   <a href = "https://github.com/Luizfdarb">  Luiz Fellipe</a> e
+   <a href = "https://github.com/hodeaven">Eduarda Interaminense</a>  
 </h3>
 
 <h1>💻 Sobre o Projeto </h1>
